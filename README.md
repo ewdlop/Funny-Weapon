@@ -92,3 +92,6 @@ Laws only protect good guys.
 Who told you good was ever good and who told you wrong was ever bad
 
 and no one told us when bad was ever no ever
+
+
+Write your own HL7 compliance program.
